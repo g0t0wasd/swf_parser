@@ -1,0 +1,723 @@
+(Thread-10 ) - 2016-12-19 16:05:09,570 - DEBUG - Starting new HTTP connection (1): www.hsbc.co.uk
+(Thread-1  ) - 2016-12-19 16:05:09,572 - DEBUG - Starting new HTTP connection (1): www.bbc.co.uk
+(Thread-12 ) - 2016-12-19 16:05:09,573 - DEBUG - Starting new HTTP connection (1): www.nationwide.co.uk
+(Thread-6  ) - 2016-12-19 16:05:09,574 - DEBUG - Starting new HTTP connection (1): www.tvguide.co.uk
+(Thread-5  ) - 2016-12-19 16:05:09,576 - DEBUG - Starting new HTTP connection (1): www.o2.co.uk
+(Thread-15 ) - 2016-12-19 16:05:09,577 - DEBUG - Starting new HTTP connection (1): www.trustpilot.co.uk
+(Thread-4  ) - 2016-12-19 16:05:09,578 - DEBUG - Starting new HTTP connection (1): www.reed.co.uk
+(Thread-3  ) - 2016-12-19 16:05:09,579 - DEBUG - Starting new HTTP connection (1): www.digitalspy.co.uk
+(Thread-2  ) - 2016-12-19 16:05:09,580 - DEBUG - Starting new HTTP connection (1): www.argos.co.uk
+(Thread-11 ) - 2016-12-19 16:05:09,581 - DEBUG - Starting new HTTP connection (1): www.hmrc.gov.uk
+(Thread-8  ) - 2016-12-19 16:05:09,582 - DEBUG - Starting new HTTP connection (1): www.houseoffraser.co.uk
+(Thread-17 ) - 2016-12-19 16:05:09,583 - DEBUG - Starting new HTTP connection (1): www.ed.ac.uk
+(Thread-7  ) - 2016-12-19 16:05:09,585 - DEBUG - Starting new HTTP connection (1): www.ukbusinessforums.co.uk
+(Thread-14 ) - 2016-12-19 16:05:09,587 - DEBUG - Starting new HTTP connection (1): www.thestudentroom.co.uk
+(Thread-18 ) - 2016-12-19 16:05:09,589 - DEBUG - Starting new HTTP connection (1): www.cottaging.co.uk
+(Thread-13 ) - 2016-12-19 16:05:09,591 - DEBUG - Starting new HTTP connection (1): www.tomshardware.co.uk
+(Thread-19 ) - 2016-12-19 16:05:09,597 - DEBUG - Starting new HTTP connection (1): www.planningportal.gov.uk
+(Thread-9  ) - 2016-12-19 16:05:09,603 - DEBUG - Starting new HTTP connection (1): www.ticketmaster.co.uk
+(Thread-16 ) - 2016-12-19 16:05:09,607 - DEBUG - Starting new HTTP connection (1): www.vistaprint.co.uk
+(Thread-20 ) - 2016-12-19 16:05:09,614 - DEBUG - Starting new HTTP connection (1): www.historylearningsite.co.uk
+(Thread-5  ) - 2016-12-19 16:05:10,160 - DEBUG - http://www.o2.co.uk:80 "GET / HTTP/1.1" 200 9237
+(Thread-5  ) - 2016-12-19 16:05:10,163 - DEBUG - <Response [200]>
+(Thread-2  ) - 2016-12-19 16:05:10,202 - DEBUG - http://www.argos.co.uk:80 "GET / HTTP/1.1" 200 40892
+(Thread-15 ) - 2016-12-19 16:05:10,229 - DEBUG - http://www.trustpilot.co.uk:80 "GET / HTTP/1.1" 301 4584
+(Thread-17 ) - 2016-12-19 16:05:10,231 - DEBUG - http://www.ed.ac.uk:80 "GET / HTTP/1.1" 200 10037
+(Thread-18 ) - 2016-12-19 16:05:10,232 - DEBUG - http://www.cottaging.co.uk:80 "GET / HTTP/1.1" 200 29124
+(Thread-19 ) - 2016-12-19 16:05:10,232 - DEBUG - http://www.planningportal.gov.uk:80 "GET / HTTP/1.1" 301 156
+(Thread-14 ) - 2016-12-19 16:05:10,233 - DEBUG - http://www.thestudentroom.co.uk:80 "GET / HTTP/1.1" 301 None
+(Thread-5  ) - 2016-12-19 16:05:10,234 - DEBUG - Parsed: 16.67% of websites
+(Thread-2  ) - 2016-12-19 16:05:10,244 - DEBUG - <Response [200]>
+(Thread-2  ) - 2016-12-19 16:05:13,910 - DEBUG - Parsed: 16.67% of websites
+(Thread-5  ) - 2016-12-19 16:05:13,912 - DEBUG - Starting new HTTP connection (1): www.thisissouthwales.co.uk
+(Thread-11 ) - 2016-12-19 16:05:13,912 - DEBUG - http://www.hmrc.gov.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-4  ) - 2016-12-19 16:05:13,913 - DEBUG - http://www.reed.co.uk:80 "GET / HTTP/1.1" 200 28952
+(Thread-9  ) - 2016-12-19 16:05:13,915 - DEBUG - http://www.ticketmaster.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-12 ) - 2016-12-19 16:05:13,915 - DEBUG - http://www.nationwide.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-20 ) - 2016-12-19 16:05:13,916 - DEBUG - http://www.historylearningsite.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:05:13,917 - DEBUG - http://www.tomshardware.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-3  ) - 2016-12-19 16:05:13,918 - DEBUG - http://www.digitalspy.co.uk:80 "GET / HTTP/1.1" 301 184
+(Thread-19 ) - 2016-12-19 16:05:13,919 - DEBUG - Starting new HTTPS connection (1): www.planningportal.co.uk
+(Thread-16 ) - 2016-12-19 16:05:13,919 - DEBUG - http://www.vistaprint.co.uk:80 "GET / HTTP/1.1" 200 37633
+(Thread-6  ) - 2016-12-19 16:05:13,921 - DEBUG - http://www.tvguide.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-14 ) - 2016-12-19 16:05:13,921 - DEBUG - Starting new HTTPS connection (1): www.thestudentroom.co.uk
+(Thread-15 ) - 2016-12-19 16:05:13,923 - DEBUG - Starting new HTTPS connection (1): uk.trustpilot.com
+(Thread-17 ) - 2016-12-19 16:05:13,925 - DEBUG - <Response [200]>
+(Thread-18 ) - 2016-12-19 16:05:13,931 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:05:13,942 - DEBUG - <Response [200]>
+(Thread-20 ) - 2016-12-19 16:05:13,945 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:05:13,952 - DEBUG - <Response [200]>
+(Thread-9  ) - 2016-12-19 16:05:14,055 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:05:14,075 - DEBUG - Parsed: 16.67% of websites
+(Thread-11 ) - 2016-12-19 16:05:14,126 - DEBUG - Starting new HTTP connection (1): aka.hmrc.gov.uk
+(Thread-18 ) - 2016-12-19 16:05:15,047 - DEBUG - Parsed: 16.67% of websites
+(Thread-2  ) - 2016-12-19 16:05:15,048 - DEBUG - Starting new HTTP connection (1): www.mirror.co.uk
+(Thread-4  ) - 2016-12-19 16:05:15,049 - DEBUG - Parsed: 16.67% of websites
+(Thread-8  ) - 2016-12-19 16:05:15,145 - DEBUG - http://www.houseoffraser.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-3  ) - 2016-12-19 16:05:15,568 - DEBUG - Starting new HTTP connection (1): www.digitalspy.com
+(Thread-16 ) - 2016-12-19 16:05:52,933 - DEBUG - <Response [200]>
+(Thread-20 ) - 2016-12-19 16:05:52,933 - DEBUG - Parsed: 16.67% of websites
+(Thread-13 ) - 2016-12-19 16:05:52,935 - DEBUG - Parsed: 16.67% of websites
+(Thread-1  ) - 2016-12-19 16:05:52,935 - DEBUG - http://www.bbc.co.uk:80 "GET / HTTP/1.1" 200 28733
+(Thread-5  ) - 2016-12-19 16:05:52,941 - DEBUG - http://www.thisissouthwales.co.uk:80 "GET / HTTP/1.1" 408 218
+(Thread-9  ) - 2016-12-19 16:05:52,937 - DEBUG - Parsed: 16.67% of websites
+(Thread-10 ) - 2016-12-19 16:05:52,938 - DEBUG - http://www.hsbc.co.uk:80 "GET / HTTP/1.1" 301 194
+(Thread-7  ) - 2016-12-19 16:05:52,936 - ERROR - An exception of type ReadTimeout occured. Arguments:
+(ReadTimeoutError("HTTPConnectionPool(host='www.ukbusinessforums.co.uk', port=80): Read timed out. (read timeout=5)",),)
+(Thread-6  ) - 2016-12-19 16:05:52,955 - DEBUG - <Response [200]>
+(Thread-12 ) - 2016-12-19 16:05:52,958 - DEBUG - <Response [200]>
+(Thread-18 ) - 2016-12-19 16:05:53,152 - DEBUG - Starting new HTTP connection (1): www.emisaccess.co.uk
+(Thread-4  ) - 2016-12-19 16:05:53,152 - DEBUG - Starting new HTTP connection (1): www.sedo.co.uk
+(Thread-17 ) - 2016-12-19 16:05:53,356 - DEBUG - Starting new HTTP connection (1): www.topcashback.co.uk
+(Thread-16 ) - 2016-12-19 16:05:53,357 - DEBUG - Parsed: 16.67% of websites
+(Thread-5  ) - 2016-12-19 16:05:53,365 - DEBUG - <Response [408]>
+(Thread-14 ) - 2016-12-19 16:05:53,366 - ERROR - An exception of type SSLError occured. Arguments:
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+(Thread-7  ) - 2016-12-19 16:05:53,369 - DEBUG - Parsed: 16.67% of websites
+(Thread-15 ) - 2016-12-19 16:05:53,731 - ERROR - An exception of type SSLError occured. Arguments:
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+(Thread-13 ) - 2016-12-19 16:05:53,952 - DEBUG - Starting new HTTP connection (1): www.123-reg.co.uk
+(Thread-20 ) - 2016-12-19 16:05:54,846 - DEBUG - Starting new HTTP connection (1): www.disdroid.co.uk
+(Thread-12 ) - 2016-12-19 16:05:54,847 - DEBUG - Parsed: 16.67% of websites
+(Thread-6  ) - 2016-12-19 16:05:55,083 - DEBUG - Parsed: 16.67% of websites
+(Thread-3  ) - 2016-12-19 16:05:55,087 - DEBUG - http://www.digitalspy.com:80 "GET / HTTP/1.1" 200 112336
+(Thread-18 ) - 2016-12-19 16:05:55,087 - ERROR - An exception of type ConnectionError occured. Arguments:
+(MaxRetryError("HTTPConnectionPool(host='www.emisaccess.co.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x104ee5550>: Failed to establish a new connection: [Errno 61] Connection refused',))",),)
+(Thread-10 ) - 2016-12-19 16:05:55,089 - DEBUG - Resetting dropped connection: www.hsbc.co.uk
+(Thread-5  ) - 2016-12-19 16:05:55,090 - DEBUG - Parsed: 33.33% of websites
+(Thread-1  ) - 2016-12-19 16:05:55,092 - DEBUG - <Response [200]>
+(Thread-8  ) - 2016-12-19 16:05:55,096 - DEBUG - <Response [200]>
+(Thread-15 ) - 2016-12-19 16:05:55,303 - DEBUG - Parsed: 16.67% of websites
+(Thread-7  ) - 2016-12-19 16:05:55,304 - DEBUG - Starting new HTTP connection (1): www.fco.gov.uk
+(Thread-16 ) - 2016-12-19 16:05:55,306 - DEBUG - Starting new HTTP connection (1): www.ancestry.co.uk
+(Thread-14 ) - 2016-12-19 16:05:55,306 - DEBUG - Parsed: 16.67% of websites
+(Thread-9  ) - 2016-12-19 16:05:55,307 - DEBUG - Starting new HTTP connection (1): www.qype.co.ukgoogle.co.uk
+(Thread-2  ) - 2016-12-19 16:05:55,307 - DEBUG - http://www.mirror.co.uk:80 "GET / HTTP/1.1" 200 49433
+(Thread-11 ) - 2016-12-19 16:05:55,438 - DEBUG - http://aka.hmrc.gov.uk:80 "GET /index.htm HTTP/1.1" 301 0
+(Thread-1  ) - 2016-12-19 16:05:55,439 - DEBUG - Parsed: 16.67% of websites
+(Thread-18 ) - 2016-12-19 16:05:55,441 - DEBUG - Parsed: 33.33% of websites
+(Thread-5  ) - 2016-12-19 16:05:55,589 - DEBUG - Starting new HTTP connection (1): www.timesonline.co.uk
+(Thread-6  ) - 2016-12-19 16:05:55,591 - DEBUG - Starting new HTTP connection (1): www.sainsburys.co.uk
+(Thread-8  ) - 2016-12-19 16:05:55,940 - DEBUG - Parsed: 16.67% of websites
+(Thread-2  ) - 2016-12-19 16:05:55,960 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:05:56,406 - DEBUG - Starting new HTTP connection (1): www.homeoffice.gov.uk
+(Thread-1  ) - 2016-12-19 16:05:56,407 - DEBUG - Starting new HTTP connection (1): www.ebay.co.uk
+(Thread-15 ) - 2016-12-19 16:05:56,408 - DEBUG - Starting new HTTP connection (1): www.co-operativebank.co.uk
+(Thread-8  ) - 2016-12-19 16:05:57,408 - DEBUG - Starting new HTTP connection (1): www.bookdepository.co.uk
+(Thread-18 ) - 2016-12-19 16:05:57,411 - DEBUG - Starting new HTTP connection (1): www.schoolnet.co.uk
+(Thread-2  ) - 2016-12-19 16:05:57,411 - DEBUG - Parsed: 33.33% of websites
+(Thread-20 ) - 2016-12-19 16:05:57,412 - DEBUG - http://www.disdroid.co.uk:80 "GET / HTTP/1.1" 200 17901
+(Thread-12 ) - 2016-12-19 16:05:57,414 - DEBUG - Starting new HTTP connection (1): www.next.co.uk
+(Thread-11 ) - 2016-12-19 16:05:57,415 - DEBUG - Starting new HTTPS connection (1): www.gov.uk
+(Thread-13 ) - 2016-12-19 16:05:57,416 - DEBUG - http://www.123-reg.co.uk:80 "GET / HTTP/1.1" 301 234
+(Thread-4  ) - 2016-12-19 16:05:57,417 - DEBUG - http://www.sedo.co.uk:80 "GET / HTTP/1.1" 301 20
+(Thread-10 ) - 2016-12-19 16:05:57,417 - DEBUG - http://www.hsbc.co.uk:80 "GET /1/2/ HTTP/1.1" 200 None
+(Thread-3  ) - 2016-12-19 16:05:57,430 - DEBUG - <Response [200]>
+(Thread-20 ) - 2016-12-19 16:05:57,439 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:05:57,441 - DEBUG - Starting new HTTPS connection (1): www.123-reg.co.uk
+(Thread-3  ) - 2016-12-19 16:05:57,441 - DEBUG - Parsed: 16.67% of websites
+(Thread-20 ) - 2016-12-19 16:05:57,666 - DEBUG - Parsed: 33.33% of websites
+(Thread-17 ) - 2016-12-19 16:05:57,667 - DEBUG - http://www.topcashback.co.uk:80 "GET / HTTP/1.1" 301 153
+(Thread-7  ) - 2016-12-19 16:05:57,668 - DEBUG - http://www.fco.gov.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-2  ) - 2016-12-19 16:05:57,669 - DEBUG - Starting new HTTP connection (1): www.direct.gov.uk
+(Thread-4  ) - 2016-12-19 16:05:57,672 - DEBUG - Starting new HTTPS connection (1): sedo.com
+(Thread-10 ) - 2016-12-19 16:05:57,680 - DEBUG - <Response [200]>
+(Thread-3  ) - 2016-12-19 16:05:57,772 - DEBUG - Starting new HTTP connection (1): www.aol.co.uk
+(Thread-20 ) - 2016-12-19 16:05:57,774 - DEBUG - Starting new HTTP connection (1): www.lindaikeji.blogspot.co.uk
+(Thread-10 ) - 2016-12-19 16:05:57,840 - DEBUG - Parsed: 16.67% of websites
+(Thread-17 ) - 2016-12-19 16:05:57,842 - DEBUG - Starting new HTTPS connection (1): www.topcashback.co.uk
+(Thread-14 ) - 2016-12-19 16:05:57,843 - DEBUG - http://www.homeoffice.gov.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-7  ) - 2016-12-19 16:05:57,845 - DEBUG - Starting new HTTPS connection (1): www.gov.uk
+(Thread-6  ) - 2016-12-19 16:05:57,845 - DEBUG - http://www.sainsburys.co.uk:80 "GET / HTTP/1.1" 200 30127
+(Thread-19 ) - 2016-12-19 16:05:57,846 - DEBUG - https://www.planningportal.co.uk:443 "GET / HTTP/1.1" 200 7413
+(Thread-9  ) - 2016-12-19 16:05:57,846 - DEBUG - http://www.qype.co.ukgoogle.co.uk:80 "GET / HTTP/1.1" 200 2423
+(Thread-5  ) - 2016-12-19 16:05:57,848 - DEBUG - http://www.timesonline.co.uk:80 "GET / HTTP/1.1" 301 234
+(Thread-9  ) - 2016-12-19 16:05:57,858 - DEBUG - <Response [200]>
+(Thread-9  ) - 2016-12-19 16:05:57,862 - DEBUG - Parsed: 33.33% of websites
+(Thread-14 ) - 2016-12-19 16:05:57,864 - DEBUG - Starting new HTTPS connection (1): www.gov.uk
+(Thread-19 ) - 2016-12-19 16:05:57,870 - DEBUG - <Response [200]>
+(Thread-10 ) - 2016-12-19 16:05:57,901 - DEBUG - Starting new HTTP connection (1): www.tripadvisor.co.uk
+(Thread-9  ) - 2016-12-19 16:05:57,926 - DEBUG - Starting new HTTP connection (1): www.amazon.co.uk
+(Thread-6  ) - 2016-12-19 16:05:57,927 - DEBUG - <Response [200]>
+(Thread-5  ) - 2016-12-19 16:05:57,928 - DEBUG - Starting new HTTP connection (1): www.thetimes.co.uk
+(Thread-19 ) - 2016-12-19 16:05:57,929 - DEBUG - Parsed: 16.67% of websites
+(Thread-18 ) - 2016-12-19 16:05:58,031 - DEBUG - http://www.schoolnet.co.uk:80 "GET / HTTP/1.1" 200 7322
+(Thread-2  ) - 2016-12-19 16:05:58,032 - DEBUG - http://www.direct.gov.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-6  ) - 2016-12-19 16:05:58,032 - DEBUG - Parsed: 33.33% of websites
+(Thread-8  ) - 2016-12-19 16:05:58,032 - DEBUG - http://www.bookdepository.co.uk:80 "GET / HTTP/1.1" 301 184
+(Thread-12 ) - 2016-12-19 16:05:58,035 - DEBUG - http://www.next.co.uk:80 "GET / HTTP/1.1" 200 56532
+(Thread-15 ) - 2016-12-19 16:05:58,037 - DEBUG - http://www.co-operativebank.co.uk:80 "GET / HTTP/1.1" 200 93217
+(Thread-16 ) - 2016-12-19 16:05:58,039 - DEBUG - http://www.ancestry.co.uk:80 "GET / HTTP/1.1" 200 13661
+(Thread-18 ) - 2016-12-19 16:05:58,043 - DEBUG - <Response [200]>
+(Thread-12 ) - 2016-12-19 16:05:58,054 - DEBUG - <Response [200]>
+(Thread-2  ) - 2016-12-19 16:05:58,061 - DEBUG - Starting new HTTPS connection (1): www.gov.uk
+(Thread-18 ) - 2016-12-19 16:05:58,067 - DEBUG - Parsed: 50.0% of websites
+(Thread-16 ) - 2016-12-19 16:05:58,069 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:05:58,101 - DEBUG - Starting new HTTP connection (1): www.kronikmedia.co.uk
+(Thread-6  ) - 2016-12-19 16:05:58,130 - DEBUG - Starting new HTTP connection (1): www.cheapflights.co.uk
+(Thread-12 ) - 2016-12-19 16:05:58,131 - DEBUG - Parsed: 33.33% of websites
+(Thread-8  ) - 2016-12-19 16:05:58,134 - DEBUG - Starting new HTTP connection (1): www.bookdepository.com
+(Thread-16 ) - 2016-12-19 16:05:58,191 - DEBUG - Parsed: 33.33% of websites
+(Thread-18 ) - 2016-12-19 16:05:58,199 - DEBUG - Starting new HTTP connection (1): www.hertz.co.uk
+(Thread-1  ) - 2016-12-19 16:05:58,204 - DEBUG - http://www.ebay.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-11 ) - 2016-12-19 16:05:58,249 - DEBUG - https://www.gov.uk:443 "GET /government/organisations/hm-revenue-customs HTTP/1.1" 200 11926
+(Thread-16 ) - 2016-12-19 16:05:58,251 - DEBUG - Starting new HTTP connection (1): www.expertreviews.co.uk
+(Thread-1  ) - 2016-12-19 16:05:58,272 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:05:58,575 - DEBUG - https://www.topcashback.co.uk:443 "GET / HTTP/1.1" 200 19202
+(Thread-12 ) - 2016-12-19 16:05:58,578 - DEBUG - Starting new HTTP connection (1): www.theregister.co.uk
+(Thread-14 ) - 2016-12-19 16:05:58,579 - DEBUG - https://www.gov.uk:443 "GET /government/organisations/home-office HTTP/1.1" 200 13292
+(Thread-1  ) - 2016-12-19 16:05:58,579 - DEBUG - Parsed: 33.33% of websites
+(Thread-13 ) - 2016-12-19 16:05:58,580 - DEBUG - https://www.123-reg.co.uk:443 "GET / HTTP/1.1" 200 None
+(Thread-7  ) - 2016-12-19 16:05:58,581 - DEBUG - https://www.gov.uk:443 "GET /government/organisations/foreign-commonwealth-office HTTP/1.1" 200 13727
+(Thread-20 ) - 2016-12-19 16:05:58,581 - DEBUG - http://www.lindaikeji.blogspot.co.uk:80 "GET / HTTP/1.1" 301 180
+(Thread-15 ) - 2016-12-19 16:05:58,584 - DEBUG - <Response [200]>
+(Thread-11 ) - 2016-12-19 16:05:58,590 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:05:58,597 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:05:58,600 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:05:58,675 - DEBUG - Starting new HTTP connection (1): www.guardian.co.uk
+(Thread-20 ) - 2016-12-19 16:05:58,717 - DEBUG - Starting new HTTP connection (1): lindaikeji.blogspot.co.uk
+(Thread-15 ) - 2016-12-19 16:05:58,785 - DEBUG - Parsed: 33.33% of websites
+(Thread-9  ) - 2016-12-19 16:05:58,786 - DEBUG - http://www.amazon.co.uk:80 "GET / HTTP/1.1" 503 2250
+(Thread-5  ) - 2016-12-19 16:05:58,787 - DEBUG - http://www.thetimes.co.uk:80 "GET / HTTP/1.1" 200 63688
+(Thread-3  ) - 2016-12-19 16:06:00,858 - DEBUG - http://www.aol.co.uk:80 "GET / HTTP/1.1" 200 24947
+(Thread-11 ) - 2016-12-19 16:06:00,858 - DEBUG - Parsed: 16.67% of websites
+(Thread-17 ) - 2016-12-19 16:06:00,934 - DEBUG - Parsed: 33.33% of websites
+(Thread-14 ) - 2016-12-19 16:06:00,980 - DEBUG - Parsed: 33.33% of websites
+(Thread-13 ) - 2016-12-19 16:06:00,981 - DEBUG - <Response [200]>
+(Thread-18 ) - 2016-12-19 16:06:00,982 - DEBUG - http://www.hertz.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-4  ) - 2016-12-19 16:06:00,982 - DEBUG - https://sedo.com:443 "GET /uk/?language=e HTTP/1.1" 301 239
+(Thread-10 ) - 2016-12-19 16:06:00,983 - DEBUG - http://www.tripadvisor.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-9  ) - 2016-12-19 16:06:00,989 - DEBUG - <Response [503]>
+(Thread-7  ) - 2016-12-19 16:06:00,992 - DEBUG - <Response [200]>
+(Thread-11 ) - 2016-12-19 16:06:01,048 - DEBUG - Starting new HTTP connection (1): www.huffingtonpost.co.uk
+(Thread-6  ) - 2016-12-19 16:06:01,050 - DEBUG - http://www.cheapflights.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-15 ) - 2016-12-19 16:06:01,051 - DEBUG - Starting new HTTP connection (1): www.pcworld.co.uk
+(Thread-14 ) - 2016-12-19 16:06:01,051 - DEBUG - Starting new HTTP connection (1): www.alquds.co.uk
+(Thread-16 ) - 2016-12-19 16:06:01,052 - DEBUG - http://www.expertreviews.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-17 ) - 2016-12-19 16:06:01,055 - DEBUG - Starting new HTTP connection (1): www.cloud-ips.co.ukperfectinvest.co.uk
+(Thread-13 ) - 2016-12-19 16:06:01,084 - DEBUG - Parsed: 33.33% of websites
+(Thread-18 ) - 2016-12-19 16:06:01,086 - DEBUG - Starting new HTTPS connection (1): www.hertz.co.uk
+(Thread-2  ) - 2016-12-19 16:06:01,087 - DEBUG - https://www.gov.uk:443 "GET / HTTP/1.1" 200 6934
+(Thread-3  ) - 2016-12-19 16:06:01,091 - DEBUG - <Response [200]>
+(Thread-9  ) - 2016-12-19 16:06:01,104 - DEBUG - Parsed: 50.0% of websites
+(Thread-8  ) - 2016-12-19 16:06:01,221 - DEBUG - http://www.bookdepository.com:80 "GET / HTTP/1.1" 200 None
+(Thread-7  ) - 2016-12-19 16:06:01,221 - DEBUG - Parsed: 33.33% of websites
+(Thread-10 ) - 2016-12-19 16:06:01,224 - DEBUG - Starting new HTTPS connection (1): www.tripadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:01,224 - DEBUG - Starting new HTTP connection (1): sedo.com
+(Thread-6  ) - 2016-12-19 16:06:01,230 - DEBUG - Starting new HTTPS connection (1): www.cheapflights.co.uk
+(Thread-5  ) - 2016-12-19 16:06:01,232 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:01,373 - DEBUG - Starting new HTTP connection (1): www.everything.org.uk
+(Thread-3  ) - 2016-12-19 16:06:01,544 - DEBUG - Parsed: 33.33% of websites
+(Thread-19 ) - 2016-12-19 16:06:01,544 - DEBUG - http://www.kronikmedia.co.uk:80 "GET / HTTP/1.1" 200 10283
+(Thread-16 ) - 2016-12-19 16:06:01,547 - DEBUG - <Response [200]>
+(Thread-12 ) - 2016-12-19 16:06:01,547 - DEBUG - http://www.theregister.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-20 ) - 2016-12-19 16:06:01,548 - DEBUG - http://lindaikeji.blogspot.co.uk:80 "GET / HTTP/1.1" 301 179
+(Thread-7  ) - 2016-12-19 16:06:02,133 - DEBUG - Starting new HTTP connection (1): www.pcreview.co.uk
+(Thread-17 ) - 2016-12-19 16:06:02,134 - ERROR - An exception of type ConnectionError occured. Arguments:
+(MaxRetryError("HTTPConnectionPool(host='www.cloud-ips.co.ukperfectinvest.co.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x104d63978>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",),)
+(Thread-9  ) - 2016-12-19 16:06:02,135 - DEBUG - Starting new HTTP connection (1): www.dailymail.co.uk
+(Thread-5  ) - 2016-12-19 16:06:02,656 - DEBUG - Parsed: 50.0% of websites
+(Thread-2  ) - 2016-12-19 16:06:02,656 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:02,664 - DEBUG - <Response [200]>
+(Thread-16 ) - 2016-12-19 16:06:02,857 - DEBUG - Parsed: 50.0% of websites
+(Thread-1  ) - 2016-12-19 16:06:02,858 - DEBUG - http://www.guardian.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-15 ) - 2016-12-19 16:06:02,858 - DEBUG - http://www.pcworld.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-11 ) - 2016-12-19 16:06:02,862 - DEBUG - http://www.huffingtonpost.co.uk:80 "GET / HTTP/1.1" 403 345
+(Thread-17 ) - 2016-12-19 16:06:02,873 - DEBUG - Parsed: 50.0% of websites
+(Thread-8  ) - 2016-12-19 16:06:02,873 - DEBUG - <Response [200]>
+(Thread-12 ) - 2016-12-19 16:06:02,874 - DEBUG - <Response [200]>
+(Thread-3  ) - 2016-12-19 16:06:02,947 - DEBUG - Starting new HTTP connection (1): www.indeed.co.uk
+(Thread-14 ) - 2016-12-19 16:06:02,973 - DEBUG - http://www.alquds.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-2  ) - 2016-12-19 16:06:02,974 - DEBUG - Parsed: 50.0% of websites
+(Thread-19 ) - 2016-12-19 16:06:03,187 - DEBUG - Parsed: 33.33% of websites
+(Thread-4  ) - 2016-12-19 16:06:03,189 - DEBUG - http://sedo.com:80 "GET /uk/ HTTP/1.1" 301 20
+(Thread-20 ) - 2016-12-19 16:06:03,191 - DEBUG - Starting new HTTP connection (1): www.lindaikejisblog.com
+(Thread-11 ) - 2016-12-19 16:06:03,194 - DEBUG - <Response [403]>
+(Thread-5  ) - 2016-12-19 16:06:03,359 - DEBUG - Starting new HTTP connection (1): www.cam.ac.uk
+(Thread-17 ) - 2016-12-19 16:06:03,360 - DEBUG - Starting new HTTP connection (1): www.toyota.co.uk
+(Thread-16 ) - 2016-12-19 16:06:03,486 - DEBUG - Starting new HTTP connection (1): www.preloved.co.uk
+(Thread-2  ) - 2016-12-19 16:06:03,739 - DEBUG - Starting new HTTP connection (1): www.tharunaya.co.uk
+(Thread-13 ) - 2016-12-19 16:06:03,740 - DEBUG - http://www.everything.org.uk:80 "GET / HTTP/1.1" 302 None
+(Thread-8  ) - 2016-12-19 16:06:03,743 - DEBUG - Parsed: 33.33% of websites
+(Thread-12 ) - 2016-12-19 16:06:03,744 - DEBUG - Parsed: 50.0% of websites
+(Thread-19 ) - 2016-12-19 16:06:03,744 - DEBUG - Starting new HTTP connection (1): www.southern-electric.co.uk
+(Thread-1  ) - 2016-12-19 16:06:03,745 - DEBUG - Starting new HTTP connection (1): www.theguardian.com
+(Thread-14 ) - 2016-12-19 16:06:03,761 - DEBUG - <Response [200]>
+(Thread-7  ) - 2016-12-19 16:06:04,115 - DEBUG - http://www.pcreview.co.uk:80 "GET / HTTP/1.1" 301 150
+(Thread-14 ) - 2016-12-19 16:06:04,115 - DEBUG - Parsed: 50.0% of websites
+(Thread-9  ) - 2016-12-19 16:06:04,115 - DEBUG - http://www.dailymail.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-4  ) - 2016-12-19 16:06:04,116 - DEBUG - https://sedo.com:443 "GET /uk/ HTTP/1.1" 200 26297
+(Thread-15 ) - 2016-12-19 16:06:04,122 - DEBUG - http://www.pcworld.co.uk:80 "GET /gbuk/index.html HTTP/1.1" 200 20970
+(Thread-15 ) - 2016-12-19 16:06:04,142 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:04,143 - DEBUG - Resetting dropped connection: www.everything.org.uk
+(Thread-14 ) - 2016-12-19 16:06:04,360 - DEBUG - Starting new HTTP connection (1): www.very.co.uk
+(Thread-8  ) - 2016-12-19 16:06:04,361 - DEBUG - Starting new HTTP connection (1): www.vogue.co.uk
+(Thread-7  ) - 2016-12-19 16:06:04,361 - DEBUG - Starting new HTTPS connection (1): www.pcreview.co.uk
+(Thread-4  ) - 2016-12-19 16:06:04,362 - DEBUG - <Response [200]>
+(Thread-18 ) - 2016-12-19 16:06:04,364 - DEBUG - https://www.hertz.co.uk:443 "GET /rentacar/reservation/ HTTP/1.1" 200 29623
+(Thread-12 ) - 2016-12-19 16:06:04,365 - DEBUG - Starting new HTTP connection (1): www.metoffice.gov.uk
+(Thread-3  ) - 2016-12-19 16:06:04,503 - DEBUG - http://www.indeed.co.uk:80 "GET / HTTP/1.1" 302 0
+(Thread-15 ) - 2016-12-19 16:06:04,505 - DEBUG - Parsed: 50.0% of websites
+(Thread-10 ) - 2016-12-19 16:06:04,506 - DEBUG - https://www.tripadvisor.co.uk:443 "GET / HTTP/1.1" 200 38735
+(Thread-17 ) - 2016-12-19 16:06:04,577 - DEBUG - http://www.toyota.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-4  ) - 2016-12-19 16:06:04,619 - DEBUG - Parsed: 33.33% of websites
+(Thread-19 ) - 2016-12-19 16:06:04,619 - DEBUG - http://www.southern-electric.co.uk:80 "GET / HTTP/1.1" 301 None
+(Thread-3  ) - 2016-12-19 16:06:04,641 - DEBUG - Starting new HTTPS connection (1): www.indeed.co.uk
+(Thread-18 ) - 2016-12-19 16:06:04,649 - DEBUG - <Response [200]>
+(Thread-15 ) - 2016-12-19 16:06:04,814 - DEBUG - Starting new HTTP connection (1): www.heartinternet.co.uk
+(Thread-1  ) - 2016-12-19 16:06:04,815 - DEBUG - http://www.theguardian.com:80 "GET / HTTP/1.1" 301 0
+(Thread-18 ) - 2016-12-19 16:06:04,816 - DEBUG - Parsed: 66.67% of websites
+(Thread-20 ) - 2016-12-19 16:06:04,817 - DEBUG - http://www.lindaikejisblog.com:80 "GET / HTTP/1.1" 200 37789
+(Thread-2  ) - 2016-12-19 16:06:04,818 - DEBUG - http://www.tharunaya.co.uk:80 "GET / HTTP/1.1" 301 232
+(Thread-9  ) - 2016-12-19 16:06:04,819 - DEBUG - http://www.dailymail.co.uk:80 "GET /home/index.html HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:04,820 - DEBUG - Starting new HTTP connection (1): www.groupon.co.uk
+(Thread-16 ) - 2016-12-19 16:06:04,821 - DEBUG - http://www.preloved.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-19 ) - 2016-12-19 16:06:04,822 - DEBUG - Starting new HTTPS connection (1): www.southern-electric.co.uk
+(Thread-10 ) - 2016-12-19 16:06:04,822 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:06:04,824 - DEBUG - Starting new HTTPS connection (1): www.toyota.co.uk
+(Thread-1  ) - 2016-12-19 16:06:04,827 - DEBUG - Starting new HTTPS connection (1): www.theguardian.com
+(Thread-20 ) - 2016-12-19 16:06:04,836 - DEBUG - <Response [200]>
+(Thread-6  ) - 2016-12-19 16:06:04,964 - DEBUG - https://www.cheapflights.co.uk:443 "GET / HTTP/1.1" 416 1545
+(Thread-18 ) - 2016-12-19 16:06:05,049 - DEBUG - Starting new HTTP connection (1): www.mmu.ac.uk
+(Thread-16 ) - 2016-12-19 16:06:05,050 - DEBUG - <Response [200]>
+(Thread-10 ) - 2016-12-19 16:06:05,051 - DEBUG - Parsed: 33.33% of websites
+(Thread-13 ) - 2016-12-19 16:06:05,052 - DEBUG - http://www.everything.org.uk:80 "GET / HTTP/1.1" 200 354
+(Thread-5  ) - 2016-12-19 16:06:05,053 - DEBUG - http://www.cam.ac.uk:80 "GET / HTTP/1.1" 200 12244
+(Thread-20 ) - 2016-12-19 16:06:05,608 - DEBUG - Parsed: 50.0% of websites
+(Thread-2  ) - 2016-12-19 16:06:05,610 - DEBUG - Starting new HTTP connection (1): www.tharunaya.us
+(Thread-12 ) - 2016-12-19 16:06:05,875 - DEBUG - http://www.metoffice.gov.uk:80 "GET / HTTP/1.1" 302 0
+(Thread-6  ) - 2016-12-19 16:06:06,015 - DEBUG - <Response [416]>
+(Thread-16 ) - 2016-12-19 16:06:06,015 - DEBUG - Parsed: 66.67% of websites
+(Thread-13 ) - 2016-12-19 16:06:06,022 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:06,023 - DEBUG - http://www.very.co.uk:80 "GET / HTTP/1.1" 200 72532
+(Thread-9  ) - 2016-12-19 16:06:06,029 - DEBUG - <Response [200]>
+(Thread-6  ) - 2016-12-19 16:06:06,033 - DEBUG - Parsed: 50.0% of websites
+(Thread-5  ) - 2016-12-19 16:06:06,034 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:06,035 - DEBUG - Parsed: 50.0% of websites
+(Thread-8  ) - 2016-12-19 16:06:06,036 - DEBUG - http://www.vogue.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-15 ) - 2016-12-19 16:06:06,821 - DEBUG - http://www.heartinternet.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-20 ) - 2016-12-19 16:06:06,822 - DEBUG - Starting new HTTP connection (1): www.tmlewin.co.uk
+(Thread-10 ) - 2016-12-19 16:06:06,824 - DEBUG - Starting new HTTP connection (1): www.barclays.co.uk
+(Thread-9  ) - 2016-12-19 16:06:07,660 - DEBUG - Parsed: 66.67% of websites
+(Thread-4  ) - 2016-12-19 16:06:07,718 - DEBUG - http://www.groupon.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-5  ) - 2016-12-19 16:06:07,766 - DEBUG - Parsed: 66.67% of websites
+(Thread-4  ) - 2016-12-19 16:06:07,787 - DEBUG - Starting new HTTPS connection (1): www.groupon.co.uk
+(Thread-8  ) - 2016-12-19 16:06:07,800 - DEBUG - <Response [200]>
+(Thread-9  ) - 2016-12-19 16:06:09,124 - DEBUG - Starting new HTTP connection (1): www.telegraph.co.uk
+(Thread-5  ) - 2016-12-19 16:06:09,125 - DEBUG - Starting new HTTP connection (1): www.ox.ac.uk
+(Thread-8  ) - 2016-12-19 16:06:09,125 - DEBUG - Parsed: 50.0% of websites
+(Thread-16 ) - 2016-12-19 16:06:09,126 - DEBUG - Starting new HTTP connection (1): www.rbs.co.uk
+(Thread-6  ) - 2016-12-19 16:06:09,128 - DEBUG - Starting new HTTP connection (1): www.which.co.uk
+(Thread-18 ) - 2016-12-19 16:06:09,128 - DEBUG - http://www.mmu.ac.uk:80 "GET / HTTP/1.1" 301 293
+(Thread-13 ) - 2016-12-19 16:06:09,129 - DEBUG - Starting new HTTP connection (1): www.metro.co.uk
+(Thread-12 ) - 2016-12-19 16:06:09,129 - DEBUG - http://www.metoffice.gov.uk:80 "GET /homepage HTTP/1.1" 200 10882
+(Thread-7  ) - 2016-12-19 16:06:09,138 - DEBUG - https://www.pcreview.co.uk:443 "GET / HTTP/1.1" 200 15483
+(Thread-14 ) - 2016-12-19 16:06:09,139 - DEBUG - <Response [200]>
+(Thread-15 ) - 2016-12-19 16:06:09,152 - DEBUG - Starting new HTTPS connection (1): www.heartinternet.uk
+(Thread-17 ) - 2016-12-19 16:06:09,404 - DEBUG - https://www.toyota.co.uk:443 "GET / HTTP/1.1" 301 200
+(Thread-18 ) - 2016-12-19 16:06:09,409 - DEBUG - Starting new HTTP connection (1): www2.mmu.ac.uk
+(Thread-2  ) - 2016-12-19 16:06:09,775 - DEBUG - http://www.tharunaya.us:80 "GET / HTTP/1.1" 200 None
+(Thread-8  ) - 2016-12-19 16:06:09,777 - DEBUG - Starting new HTTP connection (1): www.freeindex.co.uk
+(Thread-14 ) - 2016-12-19 16:06:09,777 - DEBUG - Parsed: 66.67% of websites
+(Thread-20 ) - 2016-12-19 16:06:09,778 - DEBUG - http://www.tmlewin.co.uk:80 "GET / HTTP/1.1" 200 49875
+(Thread-3  ) - 2016-12-19 16:06:09,779 - DEBUG - https://www.indeed.co.uk:443 "GET / HTTP/1.1" 200 None
+(Thread-19 ) - 2016-12-19 16:06:09,781 - DEBUG - https://www.southern-electric.co.uk:443 "GET / HTTP/1.1" 301 257
+(Thread-12 ) - 2016-12-19 16:06:09,785 - DEBUG - <Response [200]>
+(Thread-7  ) - 2016-12-19 16:06:09,799 - DEBUG - <Response [200]>
+(Thread-10 ) - 2016-12-19 16:06:09,860 - DEBUG - http://www.barclays.co.uk:80 "GET / HTTP/1.1" 301 None
+(Thread-12 ) - 2016-12-19 16:06:09,887 - DEBUG - Parsed: 66.67% of websites
+(Thread-19 ) - 2016-12-19 16:06:09,955 - DEBUG - Starting new HTTPS connection (1): www.sse.co.uk
+(Thread-7  ) - 2016-12-19 16:06:09,956 - DEBUG - Parsed: 50.0% of websites
+(Thread-1  ) - 2016-12-19 16:06:09,957 - DEBUG - https://www.theguardian.com:443 "GET / HTTP/1.1" 302 0
+(Thread-5  ) - 2016-12-19 16:06:09,959 - DEBUG - http://www.ox.ac.uk:80 "GET / HTTP/1.1" 200 17896
+(Thread-9  ) - 2016-12-19 16:06:09,963 - DEBUG - http://www.telegraph.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-6  ) - 2016-12-19 16:06:09,966 - DEBUG - http://www.which.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-20 ) - 2016-12-19 16:06:09,967 - DEBUG - <Response [200]>
+(Thread-3  ) - 2016-12-19 16:06:09,968 - DEBUG - <Response [200]>
+(Thread-16 ) - 2016-12-19 16:06:09,972 - DEBUG - http://www.rbs.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-13 ) - 2016-12-19 16:06:09,983 - DEBUG - http://www.metro.co.uk:80 "GET / HTTP/1.1" 301 178
+(Thread-12 ) - 2016-12-19 16:06:10,130 - DEBUG - Starting new HTTP connection (1): www.nationalrail.co.uk
+(Thread-7  ) - 2016-12-19 16:06:10,324 - DEBUG - Starting new HTTP connection (1): www.ibtimes.co.uk
+(Thread-14 ) - 2016-12-19 16:06:10,325 - DEBUG - Starting new HTTP connection (1): www.barclaycard.co.uk
+(Thread-10 ) - 2016-12-19 16:06:10,342 - DEBUG - http://www.barclays.co.uk:80 "GET /PersonalBanking/P1242557947640 HTTP/1.1" 200 None
+(Thread-20 ) - 2016-12-19 16:06:10,379 - DEBUG - Parsed: 66.67% of websites
+(Thread-17 ) - 2016-12-19 16:06:10,381 - DEBUG - https://www.toyota.co.uk:443 "GET /index.json HTTP/1.1" 200 None
+(Thread-1  ) - 2016-12-19 16:06:10,382 - DEBUG - Resetting dropped connection: www.theguardian.com
+(Thread-3  ) - 2016-12-19 16:06:10,384 - DEBUG - Parsed: 50.0% of websites
+(Thread-5  ) - 2016-12-19 16:06:10,384 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:10,393 - DEBUG - Starting new HTTP connection (1): metro.co.uk
+(Thread-3  ) - 2016-12-19 16:06:10,575 - DEBUG - Starting new HTTP connection (1): www.orange.co.uk
+(Thread-20 ) - 2016-12-19 16:06:10,576 - DEBUG - Starting new HTTP connection (1): www.virginactive.co.uk
+(Thread-5  ) - 2016-12-19 16:06:10,577 - DEBUG - Parsed: 83.33% of websites
+(Thread-16 ) - 2016-12-19 16:06:10,578 - DEBUG - http://www.rbs.co.uk:80 "GET /personal.ashx HTTP/1.1" 301 0
+(Thread-6  ) - 2016-12-19 16:06:10,580 - DEBUG - <Response [200]>
+(Thread-9  ) - 2016-12-19 16:06:10,596 - DEBUG - <Response [200]>
+(Thread-6  ) - 2016-12-19 16:06:10,773 - DEBUG - Parsed: 66.67% of websites
+(Thread-5  ) - 2016-12-19 16:06:10,775 - DEBUG - Starting new HTTP connection (1): www.zdnet.co.uk
+(Thread-18 ) - 2016-12-19 16:06:10,778 - DEBUG - http://www2.mmu.ac.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:11,453 - DEBUG - https://www.groupon.co.uk:443 "GET / HTTP/1.1" 200 28214
+(Thread-9  ) - 2016-12-19 16:06:12,235 - DEBUG - Parsed: 83.33% of websites
+(Thread-8  ) - 2016-12-19 16:06:12,236 - DEBUG - http://www.freeindex.co.uk:80 "GET / HTTP/1.1" 200 4604
+(Thread-16 ) - 2016-12-19 16:06:12,237 - DEBUG - Starting new HTTP connection (1): personal.rbs.co.uk
+(Thread-6  ) - 2016-12-19 16:06:12,239 - DEBUG - Starting new HTTP connection (1): www.standard.co.uk
+(Thread-17 ) - 2016-12-19 16:06:12,251 - DEBUG - <Response [200]>
+(Thread-10 ) - 2016-12-19 16:06:12,252 - DEBUG - <Response [200]>
+(Thread-8  ) - 2016-12-19 16:06:12,255 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:06:12,593 - DEBUG - Parsed: 66.67% of websites
+(Thread-7  ) - 2016-12-19 16:06:12,593 - DEBUG - http://www.ibtimes.co.uk:80 "GET / HTTP/1.1" 200 30570
+(Thread-13 ) - 2016-12-19 16:06:12,594 - DEBUG - http://metro.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-10 ) - 2016-12-19 16:06:12,671 - DEBUG - Parsed: 50.0% of websites
+(Thread-4  ) - 2016-12-19 16:06:12,671 - DEBUG - <Response [200]>
+(Thread-3  ) - 2016-12-19 16:06:12,672 - DEBUG - http://www.orange.co.uk:80 "GET / HTTP/1.1" 301 178
+(Thread-9  ) - 2016-12-19 16:06:12,684 - DEBUG - Starting new HTTP connection (1): www.independent.co.uk
+(Thread-14 ) - 2016-12-19 16:06:12,685 - DEBUG - http://www.barclaycard.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-8  ) - 2016-12-19 16:06:12,686 - DEBUG - Parsed: 66.67% of websites
+(Thread-18 ) - 2016-12-19 16:06:12,687 - DEBUG - <Response [200]>
+(Thread-20 ) - 2016-12-19 16:06:12,925 - DEBUG - http://www.virginactive.co.uk:80 "GET / HTTP/1.1" 301 154
+(Thread-4  ) - 2016-12-19 16:06:12,926 - DEBUG - Parsed: 50.0% of websites
+(Thread-12 ) - 2016-12-19 16:06:12,927 - DEBUG - http://www.nationalrail.co.uk:80 "GET / HTTP/1.1" 200 14115
+(Thread-17 ) - 2016-12-19 16:06:12,928 - DEBUG - Starting new HTTP connection (1): www.bbci.co.uk
+(Thread-7  ) - 2016-12-19 16:06:12,933 - DEBUG - <Response [200]>
+(Thread-2  ) - 2016-12-19 16:06:12,936 - DEBUG - <Response [200]>
+(Thread-10 ) - 2016-12-19 16:06:13,012 - DEBUG - Starting new HTTP connection (1): www.autotrader.co.uk
+(Thread-18 ) - 2016-12-19 16:06:13,053 - DEBUG - Parsed: 83.33% of websites
+(Thread-13 ) - 2016-12-19 16:06:13,053 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:13,055 - DEBUG - Starting new HTTPS connection (1): www.barclaycard.co.uk
+(Thread-8  ) - 2016-12-19 16:06:13,056 - DEBUG - Starting new HTTP connection (1): www.vouchercodes.co.uk
+(Thread-20 ) - 2016-12-19 16:06:13,056 - DEBUG - Starting new HTTPS connection (1): www.virginactive.co.uk
+(Thread-16 ) - 2016-12-19 16:06:13,057 - DEBUG - http://personal.rbs.co.uk:80 "GET /personal.html HTTP/1.1" 200 19232
+(Thread-3  ) - 2016-12-19 16:06:13,059 - DEBUG - Starting new HTTP connection (1): ee.co.uk
+(Thread-5  ) - 2016-12-19 16:06:13,203 - DEBUG - http://www.zdnet.co.uk:80 "GET / HTTP/1.1" 301 190
+(Thread-12 ) - 2016-12-19 16:06:13,344 - DEBUG - <Response [200]>
+(Thread-15 ) - 2016-12-19 16:06:13,471 - DEBUG - https://www.heartinternet.uk:443 "GET / HTTP/1.1" 200 17747
+(Thread-7  ) - 2016-12-19 16:06:13,471 - DEBUG - Parsed: 66.67% of websites
+(Thread-4  ) - 2016-12-19 16:06:13,563 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-2  ) - 2016-12-19 16:06:13,563 - DEBUG - Parsed: 66.67% of websites
+(Thread-18 ) - 2016-12-19 16:06:14,501 - DEBUG - Starting new HTTP connection (1): www.livenation.co.uk
+(Thread-11 ) - 2016-12-19 16:06:14,514 - DEBUG - Parsed: 33.33% of websites
+(Thread-13 ) - 2016-12-19 16:06:14,517 - DEBUG - Parsed: 66.67% of websites
+(Thread-9  ) - 2016-12-19 16:06:14,564 - DEBUG - http://www.independent.co.uk:80 "GET / HTTP/1.1" 200 42393
+(Thread-12 ) - 2016-12-19 16:06:14,603 - DEBUG - Parsed: 83.33% of websites
+(Thread-16 ) - 2016-12-19 16:06:14,604 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:14,605 - DEBUG - https://www.sse.co.uk:443 "GET / HTTP/1.1" 301 257
+(Thread-1  ) - 2016-12-19 16:06:14,606 - DEBUG - https://www.theguardian.com:443 "GET /international HTTP/1.1" 200 79126
+(Thread-5  ) - 2016-12-19 16:06:14,615 - DEBUG - Starting new HTTP connection (1): www.zdnet.com
+(Thread-17 ) - 2016-12-19 16:06:14,635 - DEBUG - http://www.bbci.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-15 ) - 2016-12-19 16:06:14,635 - DEBUG - <Response [200]>
+(Thread-9  ) - 2016-12-19 16:06:14,644 - DEBUG - <Response [200]>
+(Thread-7  ) - 2016-12-19 16:06:14,745 - DEBUG - Starting new HTTP connection (1): www.ehow.co.uk
+(Thread-11 ) - 2016-12-19 16:06:14,746 - DEBUG - Starting new HTTP connection (1): www.halifax-online.co.uk
+(Thread-10 ) - 2016-12-19 16:06:14,801 - DEBUG - http://www.autotrader.co.uk:80 "GET / HTTP/1.1" 200 15777
+(Thread-13 ) - 2016-12-19 16:06:14,802 - DEBUG - Starting new HTTP connection (1): www.currys.co.uk
+(Thread-2  ) - 2016-12-19 16:06:14,803 - DEBUG - Starting new HTTP connection (1): www.zoopla.co.uk
+(Thread-16 ) - 2016-12-19 16:06:14,803 - DEBUG - Parsed: 83.33% of websites
+(Thread-12 ) - 2016-12-19 16:06:14,858 - DEBUG - Starting new HTTP connection (1): www.three.co.uk
+(Thread-17 ) - 2016-12-19 16:06:15,452 - DEBUG - Starting new HTTP connection (1): www.bbc.co.uk
+(Thread-19 ) - 2016-12-19 16:06:15,734 - DEBUG - Starting new HTTPS connection (1): sse.co.uk
+(Thread-15 ) - 2016-12-19 16:06:15,735 - DEBUG - Parsed: 66.67% of websites
+(Thread-9  ) - 2016-12-19 16:06:15,735 - DEBUG - Parsed: 100.0% of websites
+(Thread-10 ) - 2016-12-19 16:06:15,743 - DEBUG - <Response [200]>
+(Thread-15 ) - 2016-12-19 16:06:15,824 - DEBUG - Starting new HTTP connection (1): www.jobsite.co.uk
+(Thread-16 ) - 2016-12-19 16:06:15,865 - DEBUG - Starting new HTTP connection (1): www.netdoctor.co.uk
+(Thread-8  ) - 2016-12-19 16:06:15,869 - DEBUG - http://www.vouchercodes.co.uk:80 "GET / HTTP/1.1" 403 124
+(Thread-3  ) - 2016-12-19 16:06:15,871 - DEBUG - http://ee.co.uk:80 "GET /orange HTTP/1.1" 200 11159
+(Thread-10 ) - 2016-12-19 16:06:15,872 - DEBUG - Parsed: 66.67% of websites
+(Thread-8  ) - 2016-12-19 16:06:15,874 - DEBUG - <Response [403]>
+(Thread-8  ) - 2016-12-19 16:06:15,882 - DEBUG - Parsed: 83.33% of websites
+(Thread-3  ) - 2016-12-19 16:06:15,879 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:06:15,884 - DEBUG - <Response [200]>
+(Thread-8  ) - 2016-12-19 16:06:16,028 - DEBUG - Starting new HTTP connection (1): www.gateway.gov.uk
+(Thread-18 ) - 2016-12-19 16:06:16,028 - DEBUG - http://www.livenation.co.uk:80 "GET / HTTP/1.1" 200 12861
+(Thread-10 ) - 2016-12-19 16:06:16,030 - DEBUG - Starting new HTTP connection (1): www.national-lottery.co.uk
+(Thread-3  ) - 2016-12-19 16:06:16,030 - DEBUG - Parsed: 66.67% of websites
+(Thread-17 ) - 2016-12-19 16:06:16,902 - DEBUG - http://www.bbc.co.uk:80 "GET / HTTP/1.1" 200 28720
+(Thread-16 ) - 2016-12-19 16:06:16,903 - DEBUG - http://www.netdoctor.co.uk:80 "GET / HTTP/1.1" 200 37351
+(Thread-6  ) - 2016-12-19 16:06:17,798 - DEBUG - http://www.standard.co.uk:80 "GET / HTTP/1.1" 200 36979
+(Thread-5  ) - 2016-12-19 16:06:17,798 - DEBUG - http://www.zdnet.com:80 "GET / HTTP/1.1" 200 33646
+(Thread-1  ) - 2016-12-19 16:06:17,799 - DEBUG - Parsed: 50.0% of websites
+(Thread-7  ) - 2016-12-19 16:06:17,800 - DEBUG - http://www.ehow.co.uk:80 "GET / HTTP/1.1" 200 19305
+(Thread-4  ) - 2016-12-19 16:06:17,800 - DEBUG - http://www.pcadvisor.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-18 ) - 2016-12-19 16:06:17,806 - DEBUG - <Response [200]>
+(Thread-16 ) - 2016-12-19 16:06:17,814 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:06:17,817 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:06:17,878 - DEBUG - Starting new HTTP connection (1): www.thesun.co.uk
+(Thread-3  ) - 2016-12-19 16:06:17,920 - DEBUG - Starting new HTTP connection (1): www.opodo.co.uk
+(Thread-18 ) - 2016-12-19 16:06:17,920 - DEBUG - Parsed: 100.0% of websites
+(Thread-7  ) - 2016-12-19 16:06:17,924 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:18,390 - DEBUG - https://www.barclaycard.co.uk:443 "GET / HTTP/1.1" 301 None
+(Thread-15 ) - 2016-12-19 16:06:18,391 - DEBUG - http://www.jobsite.co.uk:80 "GET / HTTP/1.1" 403 271
+(Thread-2  ) - 2016-12-19 16:06:18,391 - DEBUG - http://www.zoopla.co.uk:80 "GET / HTTP/1.1" 200 22636
+(Thread-11 ) - 2016-12-19 16:06:18,858 - DEBUG - http://www.halifax-online.co.uk:80 "GET / HTTP/1.1" 302 0
+(Thread-8  ) - 2016-12-19 16:06:18,859 - DEBUG - http://www.gateway.gov.uk:80 "GET / HTTP/1.1" 200 14736
+(Thread-13 ) - 2016-12-19 16:06:18,859 - DEBUG - http://www.currys.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-16 ) - 2016-12-19 16:06:18,859 - DEBUG - Parsed: 100.0% of websites
+(Thread-20 ) - 2016-12-19 16:06:19,218 - DEBUG - https://www.virginactive.co.uk:443 "GET / HTTP/1.1" 200 110721
+(Thread-12 ) - 2016-12-19 16:06:19,219 - DEBUG - http://www.three.co.uk:80 "GET / HTTP/1.1" 200 11185
+(Thread-17 ) - 2016-12-19 16:06:19,220 - DEBUG - Parsed: 83.33% of websites
+(Thread-6  ) - 2016-12-19 16:06:19,220 - DEBUG - <Response [200]>
+(Thread-5  ) - 2016-12-19 16:06:19,222 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:19,283 - DEBUG - <Response [200]>
+(Thread-10 ) - 2016-12-19 16:06:19,284 - DEBUG - http://www.national-lottery.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-7  ) - 2016-12-19 16:06:19,338 - DEBUG - Parsed: 83.33% of websites
+(Thread-15 ) - 2016-12-19 16:06:19,339 - DEBUG - <Response [403]>
+(Thread-8  ) - 2016-12-19 16:06:19,346 - DEBUG - <Response [200]>
+(Thread-11 ) - 2016-12-19 16:06:19,349 - DEBUG - Starting new HTTPS connection (1): www.halifax-online.co.uk
+(Thread-2  ) - 2016-12-19 16:06:19,353 - DEBUG - <Response [200]>
+(Thread-17 ) - 2016-12-19 16:06:20,542 - DEBUG - Starting new HTTP connection (1): www.efestivals.co.uk
+(Thread-5  ) - 2016-12-19 16:06:20,543 - DEBUG - Parsed: 100.0% of websites
+(Thread-6  ) - 2016-12-19 16:06:20,543 - DEBUG - Parsed: 83.33% of websites
+(Thread-12 ) - 2016-12-19 16:06:20,544 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:20,609 - DEBUG - https://www.barclaycard.co.uk:443 "GET /personal HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:20,610 - DEBUG - http://www.currys.co.uk:80 "GET /gbuk/index.html HTTP/1.1" 200 18970
+(Thread-15 ) - 2016-12-19 16:06:20,618 - DEBUG - Parsed: 83.33% of websites
+(Thread-20 ) - 2016-12-19 16:06:20,619 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:21,214 - DEBUG - Starting new HTTP connection (1): cdn.pcadvisor.co.uk
+(Thread-3  ) - 2016-12-19 16:06:21,215 - DEBUG - http://www.opodo.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-7  ) - 2016-12-19 16:06:21,216 - DEBUG - Starting new HTTP connection (1): www.monster.co.uk
+(Thread-1  ) - 2016-12-19 16:06:21,216 - DEBUG - http://www.thesun.co.uk:80 "GET / HTTP/1.1" 301 178
+(Thread-8  ) - 2016-12-19 16:06:21,216 - DEBUG - Parsed: 100.0% of websites
+(Thread-10 ) - 2016-12-19 16:06:21,216 - DEBUG - Starting new HTTPS connection (1): www.national-lottery.co.uk
+(Thread-2  ) - 2016-12-19 16:06:21,419 - DEBUG - Parsed: 83.33% of websites
+(Thread-6  ) - 2016-12-19 16:06:21,478 - DEBUG - Starting new HTTP connection (1): www.companieshouse.gov.uk
+(Thread-12 ) - 2016-12-19 16:06:21,478 - DEBUG - Parsed: 100.0% of websites
+(Thread-15 ) - 2016-12-19 16:06:21,613 - DEBUG - Starting new HTTP connection (1): www.open.ac.uk
+(Thread-20 ) - 2016-12-19 16:06:21,614 - DEBUG - Parsed: 83.33% of websites
+(Thread-13 ) - 2016-12-19 16:06:21,619 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:06:21,628 - DEBUG - Starting new HTTPS connection (1): www.thesun.co.uk
+(Thread-20 ) - 2016-12-19 16:06:21,952 - DEBUG - Starting new HTTP connection (1): www.aqclub.co.uk
+(Thread-2  ) - 2016-12-19 16:06:21,953 - DEBUG - Starting new HTTP connection (1): www.www.gov.uk
+(Thread-19 ) - 2016-12-19 16:06:21,954 - DEBUG - https://sse.co.uk:443 "GET /home HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:21,954 - DEBUG - Parsed: 83.33% of websites
+(Thread-3  ) - 2016-12-19 16:06:21,963 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:22,288 - DEBUG - Starting new HTTP connection (1): www.vodafone.co.uk
+(Thread-20 ) - 2016-12-19 16:06:22,488 - ERROR - An exception of type ConnectionError occured. Arguments:
+(MaxRetryError("HTTPConnectionPool(host='www.aqclub.co.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x104eb9518>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",),)
+(Thread-2  ) - 2016-12-19 16:06:22,488 - ERROR - An exception of type ConnectionError occured. Arguments:
+(MaxRetryError("HTTPConnectionPool(host='www.www.gov.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x104f86ac8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",),)
+(Thread-4  ) - 2016-12-19 16:06:22,489 - DEBUG - http://cdn.pcadvisor.co.uk:80 "GET /assets/jwplayer/jwplayer.flash.swf HTTP/1.1" 200 95801
+(Thread-6  ) - 2016-12-19 16:06:22,490 - DEBUG - http://www.companieshouse.gov.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-3  ) - 2016-12-19 16:06:22,491 - DEBUG - Parsed: 83.33% of websites
+(Thread-20 ) - 2016-12-19 16:06:22,493 - DEBUG - Parsed: 100.0% of websites
+(Thread-2  ) - 2016-12-19 16:06:22,493 - DEBUG - Parsed: 100.0% of websites
+(Thread-6  ) - 2016-12-19 16:06:22,506 - DEBUG - Starting new HTTPS connection (1): www.gov.uk
+(Thread-3  ) - 2016-12-19 16:06:22,574 - DEBUG - Starting new HTTP connection (1): www.www.nhs.uk
+(Thread-15 ) - 2016-12-19 16:06:22,665 - DEBUG - http://www.open.ac.uk:80 "GET / HTTP/1.1" 200 36059
+(Thread-7  ) - 2016-12-19 16:06:22,671 - DEBUG - http://www.monster.co.uk:80 "GET / HTTP/1.1" 200 19654
+(Thread-4  ) - 2016-12-19 16:06:22,693 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-7  ) - 2016-12-19 16:06:22,696 - DEBUG - <Response [200]>
+(Thread-7  ) - 2016-12-19 16:06:22,822 - DEBUG - Parsed: 100.0% of websites
+(Thread-15 ) - 2016-12-19 16:06:22,827 - DEBUG - <Response [200]>
+(Thread-15 ) - 2016-12-19 16:06:22,867 - DEBUG - Parsed: 100.0% of websites
+(Thread-17 ) - 2016-12-19 16:06:22,869 - DEBUG - http://www.efestivals.co.uk:80 "GET / HTTP/1.1" 200 12867
+(Thread-14 ) - 2016-12-19 16:06:22,870 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:22,938 - DEBUG - Parsed: 83.33% of websites
+(Thread-17 ) - 2016-12-19 16:06:22,942 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:23,027 - DEBUG - Starting new HTTP connection (1): www.expedia.co.uk
+(Thread-3  ) - 2016-12-19 16:06:23,029 - ERROR - An exception of type ConnectionError occured. Arguments:
+(MaxRetryError("HTTPConnectionPool(host='www.www.nhs.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x105eecb70>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",),)
+(Thread-17 ) - 2016-12-19 16:06:23,030 - DEBUG - Parsed: 100.0% of websites
+(Thread-3  ) - 2016-12-19 16:06:23,032 - DEBUG - Parsed: 100.0% of websites
+(Thread-11 ) - 2016-12-19 16:06:23,039 - DEBUG - https://www.halifax-online.co.uk:443 "GET / HTTP/1.1" 302 0
+(Thread-19 ) - 2016-12-19 16:06:23,068 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:06:23,138 - DEBUG - https://www.thesun.co.uk:443 "GET / HTTP/1.1" 200 121562
+(Thread-19 ) - 2016-12-19 16:06:23,228 - DEBUG - Parsed: 50.0% of websites
+(Thread-10 ) - 2016-12-19 16:06:23,231 - DEBUG - https://www.national-lottery.co.uk:443 "GET / HTTP/1.1" 200 11015
+(Thread-13 ) - 2016-12-19 16:06:23,231 - DEBUG - http://www.vodafone.co.uk:80 "GET / HTTP/1.1" 302 None
+(Thread-6  ) - 2016-12-19 16:06:23,232 - DEBUG - https://www.gov.uk:443 "GET /government/organisations/companies-house HTTP/1.1" 200 12026
+(Thread-13 ) - 2016-12-19 16:06:23,243 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-10 ) - 2016-12-19 16:06:23,254 - DEBUG - <Response [200]>
+(Thread-6  ) - 2016-12-19 16:06:23,254 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:23,291 - DEBUG - Starting new HTTP connection (1): www.aria.co.uk
+(Thread-1  ) - 2016-12-19 16:06:23,359 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:23,381 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /forum/apple-help-34/apple-not-support-product-over-5-year-old-4615241/ HTTP/1.1" 200 None
+(Thread-6  ) - 2016-12-19 16:06:23,414 - DEBUG - Parsed: 100.0% of websites
+(Thread-10 ) - 2016-12-19 16:06:23,414 - DEBUG - Parsed: 83.33% of websites
+(Thread-1  ) - 2016-12-19 16:06:23,415 - DEBUG - Parsed: 66.67% of websites
+(Thread-4  ) - 2016-12-19 16:06:23,422 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:06:23,477 - DEBUG - Starting new HTTP connection (1): www.rightmove.co.uk
+(Thread-10 ) - 2016-12-19 16:06:23,479 - DEBUG - Starting new HTTP connection (1): www.santander.co.uk
+(Thread-13 ) - 2016-12-19 16:06:23,522 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-4  ) - 2016-12-19 16:06:23,526 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-13 ) - 2016-12-19 16:06:23,529 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:23,674 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:23,680 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-11 ) - 2016-12-19 16:06:23,705 - DEBUG - https://www.halifax-online.co.uk:443 "GET /personal/logon/login.jsp HTTP/1.1" 200 7398
+(Thread-11 ) - 2016-12-19 16:06:23,719 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:23,759 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /download/security/avira-password-manager-041557-for-chrome-3331144/ HTTP/1.1" 301 None
+(Thread-11 ) - 2016-12-19 16:06:23,764 - DEBUG - Parsed: 50.0% of websites
+(Thread-14 ) - 2016-12-19 16:06:23,767 - DEBUG - http://www.expedia.co.uk:80 "GET / HTTP/1.1" 301 185
+(Thread-14 ) - 2016-12-19 16:06:23,775 - DEBUG - Starting new HTTPS connection (1): www.expedia.co.uk
+(Thread-11 ) - 2016-12-19 16:06:23,809 - DEBUG - Starting new HTTP connection (1): www.newsnow.co.uk
+(Thread-13 ) - 2016-12-19 16:06:23,840 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:23,847 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:23,998 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-1  ) - 2016-12-19 16:06:24,003 - DEBUG - http://www.rightmove.co.uk:80 "GET / HTTP/1.1" 200 19501
+(Thread-13 ) - 2016-12-19 16:06:24,010 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-10 ) - 2016-12-19 16:06:24,056 - DEBUG - http://www.santander.co.uk:80 "GET / HTTP/1.1" 301 200
+(Thread-1  ) - 2016-12-19 16:06:24,103 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:24,167 - DEBUG - http://www.aria.co.uk:80 "GET / HTTP/1.1" 302 None
+(Thread-10 ) - 2016-12-19 16:06:24,229 - DEBUG - http://www.santander.co.uk:80 "GET /uk/index HTTP/1.1" 200 25958
+(Thread-13 ) - 2016-12-19 16:06:24,230 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-1  ) - 2016-12-19 16:06:24,230 - DEBUG - Parsed: 83.33% of websites
+(Thread-14 ) - 2016-12-19 16:06:24,233 - DEBUG - https://www.expedia.co.uk:443 "GET / HTTP/1.1" 200 50594
+(Thread-19 ) - 2016-12-19 16:06:24,235 - DEBUG - Starting new HTTPS connection (1): www.aria.co.uk
+(Thread-10 ) - 2016-12-19 16:06:24,243 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:24,245 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-1  ) - 2016-12-19 16:06:24,792 - DEBUG - Starting new HTTP connection (1): www.lloydstsb.co.uk
+(Thread-10 ) - 2016-12-19 16:06:24,792 - DEBUG - Parsed: 100.0% of websites
+(Thread-4  ) - 2016-12-19 16:06:24,793 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /download/security/avira-password-manager-041557-chrome-3331144/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:24,799 - DEBUG - <Response [200]>
+(Thread-14 ) - 2016-12-19 16:06:25,160 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:25,364 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-11 ) - 2016-12-19 16:06:25,365 - DEBUG - http://www.newsnow.co.uk:80 "GET / HTTP/1.1" 301 148
+(Thread-13 ) - 2016-12-19 16:06:25,757 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-14 ) - 2016-12-19 16:06:25,761 - DEBUG - Parsed: 100.0% of websites
+(Thread-13 ) - 2016-12-19 16:06:25,770 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:25,887 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:25,894 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-1  ) - 2016-12-19 16:06:25,905 - DEBUG - http://www.lloydstsb.co.uk:80 "GET / HTTP/1.1" 301 0
+(Thread-1  ) - 2016-12-19 16:06:25,964 - DEBUG - Starting new HTTP connection (1): www.lloydsbank.com
+(Thread-11 ) - 2016-12-19 16:06:25,970 - DEBUG - http://www.newsnow.co.uk:80 "GET /h/ HTTP/1.1" 200 23060
+(Thread-13 ) - 2016-12-19 16:06:26,006 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:26,013 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-11 ) - 2016-12-19 16:06:26,023 - DEBUG - <Response [200]>
+(Thread-11 ) - 2016-12-19 16:06:26,126 - DEBUG - Parsed: 66.67% of websites
+(Thread-11 ) - 2016-12-19 16:06:26,169 - DEBUG - Starting new HTTP connection (1): www.talktalk.co.uk
+(Thread-13 ) - 2016-12-19 16:06:26,202 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:26,209 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-4  ) - 2016-12-19 16:06:26,258 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /video/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:26,285 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:26,511 - DEBUG - https://www.aria.co.uk:443 "GET / HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:26,511 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-4  ) - 2016-12-19 16:06:26,520 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-13 ) - 2016-12-19 16:06:26,523 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-19 ) - 2016-12-19 16:06:26,528 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:26,608 - DEBUG - Parsed: 66.67% of websites
+(Thread-19 ) - 2016-12-19 16:06:26,670 - DEBUG - Starting new HTTP connection (1): www.ic.ac.uk
+(Thread-13 ) - 2016-12-19 16:06:26,673 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:26,679 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-11 ) - 2016-12-19 16:06:26,739 - DEBUG - http://www.talktalk.co.uk:80 "GET / HTTP/1.1" 302 20
+(Thread-11 ) - 2016-12-19 16:06:26,803 - DEBUG - Starting new HTTP connection (1): sales.talktalk.co.uk
+(Thread-13 ) - 2016-12-19 16:06:26,830 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:26,837 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:26,965 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:26,971 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-1  ) - 2016-12-19 16:06:26,992 - DEBUG - http://www.lloydsbank.com:80 "GET / HTTP/1.1" 200 18321
+(Thread-1  ) - 2016-12-19 16:06:27,019 - DEBUG - <Response [200]>
+(Thread-1  ) - 2016-12-19 16:06:27,151 - DEBUG - Parsed: 100.0% of websites
+(Thread-4  ) - 2016-12-19 16:06:27,151 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /how-to/photo-video/ HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:27,168 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:27,175 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-19 ) - 2016-12-19 16:06:27,241 - DEBUG - http://www.ic.ac.uk:80 "GET / HTTP/1.1" 301 149
+(Thread-4  ) - 2016-12-19 16:06:27,259 - DEBUG - <Response [200]>
+(Thread-11 ) - 2016-12-19 16:06:27,365 - DEBUG - http://sales.talktalk.co.uk:80 "GET / HTTP/1.1" 302 0
+(Thread-13 ) - 2016-12-19 16:06:27,431 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-19 ) - 2016-12-19 16:06:27,433 - DEBUG - Starting new HTTP connection (1): www.imperial.ac.uk
+(Thread-4  ) - 2016-12-19 16:06:27,437 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-13 ) - 2016-12-19 16:06:27,443 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-11 ) - 2016-12-19 16:06:27,489 - DEBUG - Starting new HTTP connection (1): salesholding.talktalk.co.uk
+(Thread-13 ) - 2016-12-19 16:06:27,589 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:27,595 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:27,740 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:27,747 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-19 ) - 2016-12-19 16:06:27,897 - DEBUG - http://www.imperial.ac.uk:80 "GET / HTTP/1.1" 200 17432
+(Thread-13 ) - 2016-12-19 16:06:27,901 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-19 ) - 2016-12-19 16:06:27,903 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:28,005 - DEBUG - Parsed: 83.33% of websites
+(Thread-4  ) - 2016-12-19 16:06:28,006 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /review/storage/ HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:28,011 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-11 ) - 2016-12-19 16:06:28,029 - DEBUG - http://salesholding.talktalk.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-11 ) - 2016-12-19 16:06:28,031 - DEBUG - <Response [200]>
+(Thread-11 ) - 2016-12-19 16:06:28,039 - DEBUG - Parsed: 83.33% of websites
+(Thread-19 ) - 2016-12-19 16:06:28,048 - DEBUG - Starting new HTTP connection (1): www.carbuyer.co.uk
+(Thread-11 ) - 2016-12-19 16:06:28,101 - DEBUG - Starting new HTTP connection (1): www.tfl.gov.uk
+(Thread-4  ) - 2016-12-19 16:06:28,158 - DEBUG - <Response [200]>
+(Thread-19 ) - 2016-12-19 16:06:28,286 - DEBUG - http://www.carbuyer.co.uk:80 "GET / HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:28,287 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-4  ) - 2016-12-19 16:06:28,369 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-19 ) - 2016-12-19 16:06:28,371 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:28,484 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-19 ) - 2016-12-19 16:06:28,639 - DEBUG - Parsed: 100.0% of websites
+(Thread-11 ) - 2016-12-19 16:06:28,747 - DEBUG - http://www.tfl.gov.uk:80 "GET / HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:28,750 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-11 ) - 2016-12-19 16:06:28,755 - DEBUG - Starting new HTTPS connection (1): tfl.gov.uk
+(Thread-13 ) - 2016-12-19 16:06:28,758 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:28,901 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:28,907 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-11 ) - 2016-12-19 16:06:29,038 - DEBUG - https://tfl.gov.uk:443 "GET / HTTP/1.1" 200 31413
+(Thread-11 ) - 2016-12-19 16:06:29,047 - DEBUG - <Response [200]>
+(Thread-13 ) - 2016-12-19 16:06:29,127 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-11 ) - 2016-12-19 16:06:29,182 - DEBUG - Parsed: 100.0% of websites
+(Thread-13 ) - 2016-12-19 16:06:29,186 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-4  ) - 2016-12-19 16:06:29,206 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /how-to/security/ HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:29,310 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:29,318 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-4  ) - 2016-12-19 16:06:29,369 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:29,531 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-13 ) - 2016-12-19 16:06:29,547 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:29,553 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:29,669 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:29,676 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:29,787 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:29,792 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:29,908 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:29,914 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:30,024 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:30,033 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-13 ) - 2016-12-19 16:06:30,148 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-4  ) - 2016-12-19 16:06:30,151 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /broadband/ HTTP/1.1" 200 None
+(Thread-13 ) - 2016-12-19 16:06:30,157 - DEBUG - Resetting dropped connection: www.vodafone.co.uk
+(Thread-4  ) - 2016-12-19 16:06:30,176 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:30,367 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-13 ) - 2016-12-19 16:06:30,420 - DEBUG - http://www.vodafone.co.uk:80 "GET /404.htm?indexl HTTP/1.1" 302 None
+(Thread-13 ) - 2016-12-19 16:06:30,421 - ERROR - An exception of type TooManyRedirects occured. Arguments:
+('Exceeded 30 redirects.',)
+(Thread-13 ) - 2016-12-19 16:06:30,422 - DEBUG - Parsed: 100.0% of websites
+(Thread-4  ) - 2016-12-19 16:06:31,115 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /digital-home/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:31,299 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:31,480 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:32,455 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /review/wearable-tech/myzone-mz-3-review-3634433/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:32,504 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:33,100 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:33,396 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /blackberry/ HTTP/1.1" 404 None
+(Thread-4  ) - 2016-12-19 16:06:33,450 - DEBUG - <Response [404]>
+(Thread-4  ) - 2016-12-19 16:06:33,543 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:34,083 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /new-product/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:34,110 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:34,307 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:34,915 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /review/laptops/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:35,085 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:35,270 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:35,862 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /download/internet-tools/mamp-322-3331145/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:35,888 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:36,228 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:36,862 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /forum/games-26/pc-upgrade-gaming-advice-required-4615197/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:36,888 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:36,990 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:37,791 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /download/windows/office-business/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:37,816 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:37,982 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:38,508 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /buying-advice/mobile-phone/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:38,534 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:38,708 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:38,765 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /site-map/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:38,787 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:38,887 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:39,548 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /new-product/game/red-dead-redemption-2-release-date-rumours-red-dead-2-trailer-pc-gameplay-details-3524706/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:39,591 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:40,008 - DEBUG - Starting new HTTP connection (1): cdn.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:40,069 - DEBUG - http://cdn.pcadvisor.co.uk:80 "GET /assets/jwplayer/jwplayer.flash.swf HTTP/1.1" 200 95801
+(Thread-4  ) - 2016-12-19 16:06:40,218 - DEBUG - Starting new HTTP connection (1): www.pcadvisor.co.uk
+(Thread-4  ) - 2016-12-19 16:06:40,872 - DEBUG - http://www.pcadvisor.co.uk:80 "GET /forum/games-26/ HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:40,898 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:41,053 - DEBUG - Parsed: 66.67% of websites
+(Thread-4  ) - 2016-12-19 16:06:41,111 - DEBUG - Starting new HTTP connection (1): www.oneandone.co.uk
+(Thread-4  ) - 2016-12-19 16:06:41,694 - DEBUG - http://www.oneandone.co.uk:80 "GET / HTTP/1.1" 301 192
+(Thread-4  ) - 2016-12-19 16:06:41,701 - DEBUG - Starting new HTTPS connection (1): www.1and1.co.uk
+(Thread-4  ) - 2016-12-19 16:06:42,238 - DEBUG - https://www.1and1.co.uk:443 "GET / HTTP/1.1" 200 None
+(Thread-4  ) - 2016-12-19 16:06:42,248 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:43,167 - DEBUG - Parsed: 83.33% of websites
+(Thread-4  ) - 2016-12-19 16:06:43,580 - DEBUG - Starting new HTTP connection (1): www.halifax.co.uk
+(Thread-4  ) - 2016-12-19 16:06:44,232 - DEBUG - http://www.halifax.co.uk:80 "GET / HTTP/1.1" 200 9322
+(Thread-4  ) - 2016-12-19 16:06:44,235 - DEBUG - <Response [200]>
+(Thread-4  ) - 2016-12-19 16:06:44,286 - DEBUG - Parsed: 100.0% of websites
